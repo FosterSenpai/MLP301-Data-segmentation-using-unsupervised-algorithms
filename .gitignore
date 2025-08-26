@@ -181,5 +181,9 @@ cython_debug/
 .cursorindexingignore
 
 # No images from dataset
-.jpg
-.JPG
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
